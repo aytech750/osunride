@@ -62,6 +62,22 @@ export default function OsunRideLanding() {
       particles: "📚🎯🌱🔥",
     },
     {
+    src: "/images/education/University-of-Ilesa-UNILESA-e1727632787903.jpg",
+    alt: "University of Ilesa campus showcasing educational innovation",
+    title: "🏫 ACADEMIC EXCELLENCE ON WHEELS",
+    subtitle: "Empowering Students with Smart Mobility",
+    accent: "from-emerald-600 to-lime-600",
+    particles: "🎉📖🚀🌍"
+    },
+    {
+      src: "/images/transportation/local-taxis-osun.webp",
+      alt: "Local taxis in Osun State representing traditional transportation",
+      title: "🚗 TRADITION MEETS TECHNOLOGY",
+      subtitle: "Revolutionizing Local Transport with Digital Solutions",
+      accent: "from-orange-500 to-red-500",
+      particles: "🚌💡🌐🚦",
+    },
+    {
       src: "/images/transportation/okada-riders-gathering.jpg",
       alt: "Community of motorcycle riders representing local transportation workforce",
       title: "👥 EMPOWERING LOCAL HEROES",
@@ -100,6 +116,11 @@ export default function OsunRideLanding() {
           title: "Osun Bridge Network",
           desc: "Connecting Communities",
         },
+        {
+          src: "/images/infrastructure/UNIVERSITY-OF-ILESA.jpg",
+          title: "University of Ilesa",
+          desc: "Innovation in Education",
+        }
       ],
       color: "from-blue-500 to-cyan-500",
       icon: Building,
@@ -146,6 +167,11 @@ export default function OsunRideLanding() {
           title: "State Pride",
           desc: "Educational Leadership",
         },
+        {
+          src: "/images/education/University-of-Ilesa-UNILESA-e1727632787903.jpg",
+          title: "University of Ilesa",
+          desc: "Innovative Learning",
+        }
       ],
       color: "from-green-500 to-emerald-500",
       icon: GraduationCap,
