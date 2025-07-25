@@ -299,6 +299,15 @@
                 "image": "/images/infrastructure/osun-bridge-aerial.jpg",
                 "landmarks": ["Iwo Township", "Local Government", "Traditional Palace"],
                 "description": "Historic town with traditional and modern elements"
+              },
+                {
+                "name": "ilesa",
+                "status": "Live",
+                "rides": "1,200+",
+                "drivers": "70",
+                "image": "/images/education/University-of-Ilesa-UNILESA-e1727632787903.jpg",
+                "landmarks": ["University of Ilesa", "Ilesa Market", "Ilesa Waterfalls"],
+                "description": "Emerging educational and commercial center with vibrant community"
               }
             ]
           }
